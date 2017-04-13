@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-10.0.0_42ef124e9f96c363d9eae85c0c9dcfc407a3edfd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-10.0.0_f1620d9706baed660285d64141eab1a6a24ebe88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22031b047b12904b888549ba36c0c30d83b1aea1">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-10.0.0_3fe4fb007cd6c8517fd700a6889d7ebbea45dd02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76863814ca24fea5a0510373d15d3ccddebc09f1">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-10.0.0_8c7992ed11c79286a12d8b2e93e40dc7c7fa15cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-10.0.0_3bdee127ede6ebbedbe5c9cfa51f23198f3eec92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf60a8cd2f896314e40b2f1a9788e91e228c3671">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-10.0.0_c59e4b2c434bded6df0d661138b0b09e1c2022d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="932350448ea536c5dfbc45697951f31d34e50f1f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-10.0.0_bd40a163329b02cc2d93769f0ba506c72867029c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1c926efda90fbf653889fea922eacc527de8486">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-10.0.0_9959b5831fdb54130c01aa8d0083444c6b971cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_949f5f289de1acaaa908054c4b167171a058d2fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2e61c07206f0568b34939e2dc0e2bc75251648dc">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-10.0.0_4e2ef8e6878e3b57e080b9631634eee1f60d1cb9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e2bf5e85132c8bfed05a87b71352918815e0205">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-10.0.0_b9476796d0f2c3299cd58f2f2ccf8e4299a74caf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f36cf060b7f0d881ea6449c254ab8a570a3dcdbe">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-10.0.0_114cfa3e9eb5525f518b0f64734df0855e61b8f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_65f408f2dc52c38d2c1a9cec9cbaac8a96377230.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_259bf2665c0ce8bd213499044b48aac867142d47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-10.0.0_f25098e4f3d10a26eea8aa4bc9aec1cc8cc96dfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3861e0294c61bf4bf968a1da1607497345dca283">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-10.0.0_91db4b55367443e495c1e49cbbac8732ac0f9532.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c7e5cd1e1366d71b2047505b6bbf523da06255e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_796763f3b739ea9e08e4f50ca8f5b1ab2305d8fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-10.0.1_847d4d0c427d2ff2b232c5aa7830f94cbdcc7a6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-10.0.1_b4be7ca9c30c7ce27508c58cc608ae9969b343ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5fd86107cb2d2fa2d099250066cc664cdcfd476f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-10.0.0_91e80bc9d1cd8c55a0149bb3e03eefa49593485b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-10.0.1_b3f35d114fdc16642f660a8910247d083170e1f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_ad9ffd0c902827b22117ff7e130997801f930c2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-10.0.0_8db0b9191a22f9fca626a63637b6f611e04c2469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_bc40d76a6106f26c83cb7585a24b9977c6cd9f16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b7518f2d3fce2ebec6a0bb8d2cd97eebc9f119df">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-10.0.0_743e18f78d4bcf2fa680d5c83b82863d20b200b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_df912aaed2869743d151c81923d0aea88b8a0842.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_603bf3ad85d31c1fe6bf4b013367c017d07300b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-10.0.1_39dddb5b7e764abdbcb2e3124b3cd5580a555d86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fabe27d7a7b7ef3fe077c6499cd0a4f08e1c427">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-10.0.0_2e73d15d689fd7f866e6c364119179b992a486af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0b0f4f99cf68e748dd123ad553738e4284d4749">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-1.0.1_67d03b92a843be060b3bf2fbe0d833939916345f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-10.0.0_c9d6c4f00d69be64e6b7eb6623c56a99d4b0dab4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-10.0.0_951929601f3c0b8af5bf17b04dd13cc4acac1177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="741f550aea73f64507fc60a799fefd5a2ea2bef5">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-10.0.0_13417672d06ea88747b76a9f58dd53db03f53b89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_6b34152434323264d3ea8c67220045c66f18065a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-10.0.0_917df3c3638f96537daac9cceb3a9c2379d4bb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_196776f953250f96501937dae2178ebab4d6cff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-10.0.0_f549ae7600ad2e2e2f8606903430589b1d797a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d70f7c486d9d65ceabd0039667ae4d53bf0ae7c">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-10.0.0_9f06e0ff11ca25fb102f19f1178d7f68bbb19f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_4e4fa551cb16fc2e76370094851b02f374fb7246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-10.0.1_901b913b6705a4bef39db03a0ccca1df92563966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="813f70b551ce5206ad15dfe6e2f5b2d86e08a723">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-10.0.0_268a1bab314a26496dbe96e6af99eaf3e46999fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-10.0.1_e39f3a8c37a336feeed88fe5a543c7e1f4b50edb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58cd8dc3bbf63b37f0e107033257467511130e0f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-10.0.0_125fbc51228f1f737879fd16937dc3bbc7a0f16d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/glide-3.6.1_d6b37f6275c0e57828b42e7f378eeb130128fab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_b99ba63f935fcbd3f22b90fb0205c9ff61fe8985.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-10.0.0_63092a0b48d4a1ee3d5a3c943a3e604e197923c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3660967212b89195e628670db181ed86e3307569">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.0_6531d53d981e1e3742b552dfe26dad4c012cd8f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-1.3.0_96fa7a45a0c2c8a7516829aa250e48f6768c49c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_5a545d9deb4d8604df1cab42c3403ece36aff250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ca4ffc4d90754f1f2438dfc3e94006cfcc6be98">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-10.0.0_e91dcfdaf087913c7da6d53a9eeed990752b42d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-10.0.1_31f81ed7228db113c5fb64077c4c887fdfe836b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-10.0.0_d3e01135a2317bd6ec0b3add7d7e34e6ec3f1fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147c3e6b95aa3d1e83705b056777ef865d272969">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-10.0.0_cd4cd78ad3fe12493c67969d526cf0888c2b4710.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_754eecf6e3cff0ea77d859d15e9ec215ea959345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-10.0.0_474874b8d27c49c8c578a061dc649801ac358b34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b7e0a45e8139272f3fe2a19d4e7b1122c769550">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-10.0.0_d7b0d3a0b455617038ea13ce9aaea5be085671f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c16bfec8f9f5dafb439c3520568e318f8010c14c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddfa80ca49f1334afea1f9aa93148be73f73cd0f">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-10.0.0_882f3d08ba3f115306fbdab45a66282b11ca5935.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e2fd2b87dc79fc6c8d70fda1247ac6f4a878a28">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-10.0.0_ebb6b66967eb2fc1f2a620df4da25d8e02feac9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_106dcc29f0b3788b3199c26780740d1e5337484d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4701f9f79c8a00564912b21b0cb0cec3f51a7d23">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-10.0.0_e3006b59069a7a1229cf26cef46848be3c9ce1c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_61c33d45c42135a162939f3f7bf416352d357ae3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-10.0.0_0a8387ee9d95f203a4335facfcb013b8be8373a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cc495f5634b8aaae30a37317ba687830da545cf">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-10.0.0_fe90abbeb44bc3e06dd75e44a9168a7cda7d30c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-24.0.0_22a84aa7e13d32fabd08151c3e6e8217d9d2970f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-10.0.0_791b26b626f7472c6b2cc27f2a63d9e8e747b358.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="543835521cf4f867223d9f2a4b19ce32f95b0573">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-10.0.0_bb6c1ea0927772e753764f95ca1199481589e3f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-24.0.0_3175725d668b11872738a631877f188268fb1ba3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1a32a39a9fcae3d354a312cdb78c18159fa702e6">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.theartofdev.edmodo-android-image-cropper-2.3.1_331c566cba2d41252272d980ee1cfb810f7fc03b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-10.0.0_dc376362a35dfe68a1556bb526b222c4ae2339d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="80338dde5f9d8e20efe2f2a44bc424aefe4eb8f4">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-10.0.0_59614bf4922e5d9b0a65bcba7b09f9375aff1b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_8126472fe922971a1b1e4eed6eac27999dd94b66.jar" />
+    </item>
+
+</items>

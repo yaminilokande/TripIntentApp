@@ -1,0 +1,7 @@
+#Wed Dec 14 17:55:29 PST 2016
+base.0=/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7855e7434df687d5d6bc16867e5059cc4a44e7ca
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_946ace946c3d6c27dcd3fe7a3f3b6fc025e975f6/classes.dex
+base.1=/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_946ace946c3d6c27dcd3fe7a3f3b6fc025e975f6
+file.0=/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7855e7434df687d5d6bc16867e5059cc4a44e7ca/classes.dex

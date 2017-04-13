@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.0/res/raw/gtm_analytics"
+    }
+]

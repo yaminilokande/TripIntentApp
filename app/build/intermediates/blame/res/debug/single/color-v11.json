@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/crop_image_menu.xml",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/res/menu/crop_image_menu.xml"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/crop_image_menu.xml",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/exploded-aar/com.theartofdev.edmodo/android-image-cropper/2.3.1/res/menu/crop_image_menu.xml"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/menu_tabbed.xml",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/menu/menu_tabbed.xml"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/menu_tabbed.xml",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/menu/menu_tabbed.xml"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/menu/main_menu.xml"
+    }
+]

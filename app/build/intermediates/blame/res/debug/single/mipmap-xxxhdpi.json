@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/icon.png",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_add_black_24dp.png",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/add_btn.png",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/add_btn.png"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_add_white_24dp.png",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_add_white_24dp.png",
+        "source": "/Users/yaminilokande/Downloads/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/add_btn.png",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/add_btn.png"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_add_black_24dp.png",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/ic_add_black_24dp.png"
+    },
+    {
+        "merged": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/icon.png",
+        "source": "/Users/BT/TripIntent/ProjectFolder/TripIntent1.2 copy/app/src/main/res/mipmap-xxxhdpi/icon.png"
+    }
+]
